@@ -52,8 +52,8 @@ The published v1.2.0 source snapshot passed **206 automated tests** and includes
 | Project | Focus | Status |
 | --- | --- | --- |
 | **[CredoNomics Cyber Solutions](https://github.com/aqdas1820/credonomics-cyber-solutions)** | Windows document, OCR, print/scan and productivity tooling | **Open source · Released** |
-| **[CredoNomics](https://github.com/aqdas1820/credonomics-site)** | Main web platform of CredoNomics Investment Solutions | **Active development** |
-| **[CredFlow](https://github.com/aqdas1820/CredFlow)** | CredoNomics product project | **Public project** |
+| **[CredoNomics](https://github.com/aqdas1820/credonomics-site)** | Financial products, research experiences and consumer-finance tooling | **Active development** |
+| **[CredFlow](https://github.com/aqdas1820/CredFlow)** | Credit-card and transaction tracking dashboard built with Next.js and Supabase | **Development project** |
 
 ---
 
