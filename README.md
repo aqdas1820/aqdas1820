@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aqdas1820/aqdas1820/main/CredoNomics%20Cyber%20Solutions%20Logo(4).png" alt="CredoNomics Cyber Solutions" width="720">
+<img src="https://raw.githubusercontent.com/aqdas1820/aqdas1820/main/assets/credonomics-cyber-solutions-logo.png" alt="CredoNomics Cyber Solutions" width="720">
 
 # Aqdas Shaikh
 
