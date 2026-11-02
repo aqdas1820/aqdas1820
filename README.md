@@ -1,17 +1,30 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aqdas1820/aqdas1820/main/CredoNomics%20Cyber%20Solutions%20Logo(4).png" alt="CredoNomics Cyber Solutions" width="760">
+<img src="https://raw.githubusercontent.com/aqdas1820/aqdas1820/main/CredoNomics%20Cyber%20Solutions%20Logo(4).png" alt="CredoNomics Cyber Solutions" width="720">
 
-### Software, fintech and open-source projects by CredoNomics Investment Solutions
+# Aqdas Shaikh
 
-[![Website](https://img.shields.io/badge/Website-credonomics.in-0B7285?style=flat-square)](https://credonomics.in)
-[![GitHub](https://img.shields.io/badge/GitHub-aqdas1820-181717?style=flat-square&logo=github)](https://github.com/aqdas1820)
+### Founder · Product Builder · Software Engineer
+
+Founder of **CredoNomics Investment Solutions**, building practical fintech products, Windows software and open-source tools.
+
+[![Website](https://img.shields.io/badge/CredoNomics-credonomics.in-0B7285?style=for-the-badge&logo=googlechrome&logoColor=white)](https://credonomics.in)
+[![Instagram](https://img.shields.io/badge/Instagram-@iam.aqdasshaikh-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iam.aqdasshaikh)
+[![Founder Contact](https://img.shields.io/badge/Founder-contact-16384B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:founder@credonomics.in)
 
 </div>
 
 ---
 
-## Featured project
+## About
+
+I build products through **CredoNomics Investment Solutions** across financial technology, Windows desktop software, document automation, OCR, web applications and developer tooling.
+
+My public engineering work is focused on shipping usable products with clear documentation, reproducible releases and maintainable source.
+
+---
+
+## Featured Project
 
 ### [CredoNomics Cyber Solutions](https://github.com/aqdas1820/credonomics-cyber-solutions)
 
@@ -26,51 +39,57 @@ Open-source Windows document productivity and utility suite developed and publis
   <img src="https://img.shields.io/badge/UI-PySide6-41CD52?style=flat-square&logo=qt&logoColor=white" alt="PySide6">
 </p>
 
-**Ready-made Windows app:** [Download the latest release](https://github.com/aqdas1820/credonomics-cyber-solutions/releases/latest)  
-**Source:** [github.com/aqdas1820/credonomics-cyber-solutions](https://github.com/aqdas1820/credonomics-cyber-solutions)  
-**Documentation:** [Project docs](https://github.com/aqdas1820/credonomics-cyber-solutions/tree/main/docs)
+**Windows release:** [Download v1.2.0](https://github.com/aqdas1820/credonomics-cyber-solutions/releases/latest)  
+**Source:** [Repository](https://github.com/aqdas1820/credonomics-cyber-solutions)  
+**Docs:** [Documentation hub](https://github.com/aqdas1820/credonomics-cyber-solutions/tree/main/docs)
 
-The published v1.2.0 source snapshot passed **206 automated tests**. The project includes Windows CI, architecture documentation, release checksums, security guidance and a reproducible developer setup.
-
----
-
-## Engineering focus
-
-- Windows desktop applications
-- Python and PySide6 / Qt
-- Document and PDF processing
-- OCR and image workflows
-- Automation and developer tooling
-- Financial technology
-- Open-source software
+The published v1.2.0 source snapshot passed **206 automated tests** and includes Windows CI, architecture documentation, release checksums, security guidance and a reproducible developer setup.
 
 ---
 
-## Technology
+## Building at CredoNomics
 
-`Python` · `PySide6` · `Qt` · `SQLite` · `PyMuPDF` · `PyInstaller` · `GitHub Actions` · `Windows APIs`
-
----
-
-## Current open-source work
-
-**CredoNomics Cyber Solutions** brings document preparation, PDF utilities, print and scan workflows, English/Hindi OCR, image tools, QR generation, business utilities and local-first processing into one Windows desktop application.
-
-For normal Windows users, the portable release requires no Python setup:
-
-**Download → Extract → Run `CredoNomics Cyber Solutions.exe`**
-
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-v1.2.0-0078D4?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/aqdas1820/credonomics-cyber-solutions/releases/download/v1.2.0/CredoNomics-Cyber-Solutions-Windows.zip)
+| Project | Focus | Status |
+| --- | --- | --- |
+| **[CredoNomics Cyber Solutions](https://github.com/aqdas1820/credonomics-cyber-solutions)** | Windows document, OCR, print/scan and productivity tooling | **Open source · Released** |
+| **[CredoNomics](https://github.com/aqdas1820/credonomics-site)** | Main web platform of CredoNomics Investment Solutions | **Active development** |
+| **[CredFlow](https://github.com/aqdas1820/CredFlow)** | CredoNomics product project | **Public project** |
 
 ---
 
-## Contact
+## Engineering Focus
 
-**CredoNomics Investment Solutions**  
-[credonomics.in](https://credonomics.in) · [support@credonomics.in](mailto:support@credonomics.in)
+`Fintech` · `Windows Desktop` · `Python` · `TypeScript` · `PySide6 / Qt` · `React / Next.js` · `OCR` · `Document Processing` · `Automation` · `GitHub Actions`
+
+### Core stack
+
+**Languages:** Python · TypeScript · JavaScript  
+**Desktop:** PySide6 · Qt · Windows APIs  
+**Web:** React · Next.js  
+**Data & tooling:** SQLite · Git · GitHub Actions · Vercel
+
+---
+
+## Connect
+
+### Aqdas Shaikh
+
+**Founder — CredoNomics Investment Solutions**
+
+- Instagram: [@iam.aqdasshaikh](https://instagram.com/iam.aqdasshaikh)
+- Founder / partnerships / business: [founder@credonomics.in](mailto:founder@credonomics.in)
+
+### CredoNomics Investment Solutions
+
+- Website: [credonomics.in](https://credonomics.in)
+- Instagram: [@credonomics.in](https://instagram.com/credonomics.in)
+- Product support: [support@credonomics.in](mailto:support@credonomics.in)
+- Phone: `02562455327`
+
+---
 
 <div align="center">
 
-### Build useful software. Document it well. Ship it responsibly.
+### Building useful software. Documenting it well. Shipping it responsibly.
 
 </div>
