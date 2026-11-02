@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aqdas1820/aqdas1820/main/assets/credonomics-cyber-solutions-profile-header.webp" alt="CredoNomics Cyber Solutions" width="760">
+# CredoNomics Cyber Solutions
 
 ### Software, fintech and open-source projects by CredoNomics Investment Solutions
 
