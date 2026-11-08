@@ -52,6 +52,7 @@ The published v1.2.0 source snapshot passed **206 automated tests** and includes
 | Project | Focus | Status |
 | --- | --- | --- |
 | **[CredoNomics Cyber Solutions](https://github.com/aqdas1820/credonomics-cyber-solutions)** | Windows document, OCR, print/scan and productivity tooling | **Open source · Released** |
+| **[CredoRewards Engine](https://github.com/aqdas1820/credorewards-engine)** | Explainable cashback calculations, credit-card comparisons, TypeScript SDK and offline demo | **Open source · Experimental alpha** |
 | **[CredoNomics](https://github.com/aqdas1820/credonomics-site)** | Financial products, research experiences and consumer-finance tooling | **Active development** |
 | **[CredFlow](https://github.com/aqdas1820/CredFlow)** | Credit-card and transaction tracking dashboard built with Next.js and Supabase | **Development project** |
 
